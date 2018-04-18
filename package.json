@@ -1,7 +1,6 @@
 {
   "name": "react-canvas-clock",
   "version": "0.1.0",
-  "private": true,
   "keywords": [
     "clock",
     "watch",
