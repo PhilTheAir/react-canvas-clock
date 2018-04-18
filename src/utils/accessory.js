@@ -1,4 +1,18 @@
-import { strFormat } from 'ymd-hms';
+export const strFormat = {
+  yyyymmdd: 'yyyymmdd',
+  yyyymmddSlash: 'yyyy/mm/dd',
+  yyyymmddHyphen: 'yyyy-mm-dd',
+  mmddyyyy: 'mmddyyyy',
+  mmddyyyySlash: 'mm/dd/yyyy',
+  mmddyyyyHyphen: 'mm-dd-yyyy',
+  ddmmyyyy: 'ddmmyyyy',
+  ddmmyyyySlash: 'dd/mm/yyyy',
+  ddmmyyyyHyphen: 'dd-mm-yyyy',
+  hhmmss12: 'hh:mm:ss12',
+  hhmmss24: 'hh:mm:ss24',
+  hhmm12: 'hh:mm12',
+  hhmm24: 'hh:mm24'
+}
 
 export const dayEng = [
   "Sunday",
