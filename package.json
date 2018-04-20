@@ -1,6 +1,7 @@
 {
   "name": "react-canvas-clock",
   "version": "0.1.0",
+  "main": "src/index.js",
   "keywords": [
     "clock",
     "watch",
