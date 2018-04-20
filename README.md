@@ -10,7 +10,7 @@ import { AutomaticClock , DigitalClock } from 'react-canvas-clock';
 
 <AutomaticClock id="clock1" size="200" />
 
-<DigitalClock id="clock1" size="200" />
+<DigitalClock id="clock2" size="200" />
 
 AutomaticClock.defaultProps = {
   size: 200, 
