@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { renderAutomaticClock } from '../../../utils/automatic';
+import { renderAutomaticClock } from './utils/automatic';
 
 export default class AutomaticClock extends Component {
   static defaultProps = {

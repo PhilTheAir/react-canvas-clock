@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { renderDigitalClock } from '../../../utils/digital';
+import { renderDigitalClock } from './utils/digital';
 
 export default class DigitalClock extends Component {
   static defaultProps = {
